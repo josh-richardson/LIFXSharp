@@ -1,0 +1,8 @@
+c:\users\josh\documents\visual studio 2013\Projects\LIFX\LIFX\bin\Debug\LIFX.dll
+c:\users\josh\documents\visual studio 2013\Projects\LIFX\LIFX\bin\Debug\LIFX.pdb
+c:\users\josh\documents\visual studio 2013\Projects\LIFX\LIFX\obj\Debug\LIFX.csprojResolveAssemblyReference.cache
+c:\users\josh\documents\visual studio 2013\Projects\LIFX\LIFX\obj\Debug\LIFX.dll
+c:\users\josh\documents\visual studio 2013\Projects\LIFX\LIFX\obj\Debug\LIFX.pdb
+C:\Users\Josh\documents\visual studio 2013\Projects\LIFX\LIFX\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Josh\documents\visual studio 2013\Projects\LIFX\LIFX\obj\Debug\rchrdsn.LIFX.Properties.Resources.resources
+C:\Users\Josh\documents\visual studio 2013\Projects\LIFX\LIFX\obj\Debug\LIFX.csproj.GenerateResource.Cache
